@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @VITORIARODRIGUE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### olá sou a vitoriarodrigue/vitoriarodrigue 👋
 
-<!---
-VITORIARODRIGUE/VITORIARODRIGUE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+    [![BLOG]{https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white}(https://sujeitoprogrador.com
+
+
